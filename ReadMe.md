@@ -30,5 +30,5 @@ This repository contains the Verilog implementation of a single-stage pipelined 
 For detailed information on the architecture, instruction set, and usage, refer to the documentation.
 
 License
-This project is licensed under the `MIT License` - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the `MIT License` - see the [LICENSE](LICENSE) file for details.
 
