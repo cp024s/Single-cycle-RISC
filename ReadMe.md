@@ -22,9 +22,8 @@ This repository contains the Verilog implementation of a single-stage pipelined 
 - `testbench/`: Testbench files for simulation.
 - `docs/`: Documentation and additional resources.
 
-## Simulation Results
-
 ## Simulation Waveform
+// yet to add screenshots
 
 ## Documentation
 For detailed information on the architecture, instruction set, and usage, refer to the documentation.
