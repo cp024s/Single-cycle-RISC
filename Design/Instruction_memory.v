@@ -2,8 +2,7 @@
 // height: 64, width: 32 bits (as required by TA)
 // pc input width: 64 = 2^6
 // instruction output width: 32 bits (== I-mem width)
-// fi_rst reset all to 0, then hard-code instructions
-
+// 		  		fi_rst reset all to 0, then hard-code instructions
 module Instruction_memory (read_addr, instruction, reset);
 	input reset;
 	input [6:0] read_addr;
