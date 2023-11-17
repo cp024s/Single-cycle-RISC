@@ -28,6 +28,6 @@ This repository contains the Verilog implementation of a single-stage pipelined 
 ## Documentation
 For detailed information on the architecture, instruction set, and usage, refer to the documentation.
 
-License
+## License
 This project is licensed under the `BSD-3-Clause license` - see the [LICENSE](LICENSE) file for details.
 
